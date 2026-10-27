@@ -1,0 +1,18 @@
+{
+  "ToolVersion": "0.1.0-preview",
+  "WindowsPowerShell51Tests": 21,
+  "ExactOriginalImageTests": "Passed on nonexecuted local copies of the known signed 0.7.13 image",
+  "InstalledComponentChangedDuringPackageTesting": false,
+  "RealInstalledComponentCheck": "KnownPatched; actual running process path; original backup verified",
+  "ReportRedactionTests": "Profile path and JSON-escaped profile path passed",
+  "PartialWriteRollback": "Passed",
+  "UnknownHashAndCorruptBackupRejection": "Passed",
+  "LockedFileAndMissingBackupRejection": "Passed",
+  "NativeBrowserAcceptance": "Prior verified local Chrome and Edge run; not rerun by this file checker",
+  "OtherMachinesTested": 0,
+  "OtherHelperHashesSupported": 0,
+  "NetworkUploads": "None",
+  "ReleaseStage": "Prerelease candidate; single-host validation",
+  "ValidationDate": "2026-10-27",
+  "TestedPlatform": "Windows 11 x64; Windows PowerShell 5.1 and PowerShell 7"
+}

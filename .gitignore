@@ -1,0 +1,7 @@
+/dist/
+/reports/
+/backups/
+/tests/scratch-*/
+*.exe
+*.zip
+__pycache__/

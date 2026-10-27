@@ -1,0 +1,20 @@
+Codex Native Browser Recovery 0.1.0-preview
+
+Community workaround; not an OpenAI product or official signed fix.
+
+Predicate correction and exact instruction sequences are derived from:
+heelee912/codex, commit 95ee61db4a387944889edc9a5b6e97272c8fca9d
+tools/windows-cua-document-fix/patch_document_type.py
+https://github.com/heelee912/codex/tree/95ee61db4a387944889edc9a5b6e97272c8fca9d/tools/windows-cua-document-fix
+
+The upstream repository uses Apache License 2.0; see LICENSE.
+Modified 2026-10-27: reimplemented the file operations in PowerShell, added portable discovery, explicit consent, local backup, redacted reporting, tests and packaging, and limited the supported helper pair to the independently reviewed 0.7.13 hashes.
+No OpenAI executable is included. Product names describe compatibility only.
+
+Upstream NOTICE:
+OpenAI Codex
+Copyright 2025 OpenAI
+
+This project includes code derived from [Ratatui](https://github.com/ratatui/ratatui), licensed under the MIT license.
+Copyright (c) 2016-2022 Florian Dehau
+Copyright (c) 2023-2025 The Ratatui Developers
